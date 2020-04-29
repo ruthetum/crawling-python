@@ -1,2 +1,3 @@
-# crawling-python
-데이터 수집, 분석 (Python 활용)
+# Python 라이브러리 활용하기
+
+크롤링, 자료 변환
